@@ -1,0 +1,10 @@
+(librepcb_library 045df73b-f4c5-4791-80c7-6c4bbacc8c5d
+ (name "YaMoef_lib")
+ (description "")
+ (keywords "")
+ (author "YaMoef")
+ (version "0.1")
+ (created 2023-04-05T19:08:40Z)
+ (deprecated false)
+ (url "")
+)
